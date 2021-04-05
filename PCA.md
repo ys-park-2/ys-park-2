@@ -37,7 +37,7 @@
         
     - PCA 알고리즘 _ 주성분 추출
     - 시그마 : PxP 공분산 행렬
-    ![image](https://user-images.githubusercontent.com/79842387/113568398-71269680-964b-11eb-8f8e-9909c6dab6b6.png)
+    -![image](https://user-images.githubusercontent.com/79842387/113568398-71269680-964b-11eb-8f8e-9909c6dab6b6.png)
 
   
     - 예제
