@@ -12,11 +12,12 @@
   3) XGboost
   4) Light gradient boost machines(LightGBM)
   5) Catboost
-
+  
   1) Adaboost
     - 오분류한 관측치에 보다 집중!
-    ![image](https://user-images.githubusercontent.com/79842387/114405691-e3feb700-9be1-11eb-9d61-0d8ea0fc78c5.png)
-    ![image](https://user-images.githubusercontent.com/79842387/114407954-e95d0100-9be3-11eb-8881-9483518cd4ba.png)
+    
+   ![image](https://user-images.githubusercontent.com/79842387/114405691-e3feb700-9be1-11eb-9d61-0d8ea0fc78c5.png)
+   ![image](https://user-images.githubusercontent.com/79842387/114407954-e95d0100-9be3-11eb-8881-9483518cd4ba.png)
   
    1. 모든 관측치에 가중치 (초기 가중치 : 1/n) = impose equal weight initially
    ![image](https://user-images.githubusercontent.com/79842387/114409040-00502300-9be5-11eb-8200-3311576f23cd.png)
@@ -34,7 +35,7 @@
    
    5. 결론
    
-    ![image](https://user-images.githubusercontent.com/79842387/114408986-f0d0da00-9be4-11eb-8b2f-79ad30790c08.png)
+   ![image](https://user-images.githubusercontent.com/79842387/114408986-f0d0da00-9be4-11eb-8b2f-79ad30790c08.png)
 
 
 #### bagging vs boosting
