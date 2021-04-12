@@ -27,11 +27,13 @@
    ![image](https://user-images.githubusercontent.com/79842387/114408280-38a33180-9be4-11eb-9a55-f09c062d8cfd.png)
    
    3. 새로운 classifier -> 오분류에 가중치
+   
    ![image](https://user-images.githubusercontent.com/79842387/114408651-98014180-9be4-11eb-9417-bad16b98e378.png)
    
    4. -> 반복
    
    5. 결론
+   
     ![image](https://user-images.githubusercontent.com/79842387/114408986-f0d0da00-9be4-11eb-8b2f-79ad30790c08.png)
 
 
@@ -41,6 +43,7 @@
 #### GBM (Gradient Boosting Machines)
 
   - Residual : y - y_hat
+  
   ![image](https://user-images.githubusercontent.com/79842387/114409625-98e6a300-9be5-11eb-8b45-a471ac72b176.png)
   
   - why gradient?
